@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2025 Colin Dess
+Copyright for portions of project SMBasic are held by Tony DiCola for Adafruit Industries, 2016 as part of project
+Adafruit_Python_PureIO. All other copyright for project Foo are held by Colin Dess, 2025.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+///////////////////////////////
+
+This software includes third party open source software components: Adafruit Industries
+Attribution above (2016 Tony DiCola)
+https://github.com/adafruit/Adafruit_Python_PureIO/blob/main/Adafruit_PureIO/smbus.py

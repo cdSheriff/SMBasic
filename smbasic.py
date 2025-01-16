@@ -1,6 +1,6 @@
 from fcntl import ioctl
 from typing import Union
-from typing_extensions import Self
+# from typing_extensions import Self
 
 import time
 import signal
@@ -103,7 +103,7 @@ class SMBasic(Lockable):
 
         self.close()
 
-    def __enter__(self) -> Self:
+    def __enter__(self):
         """
         Enter context manager for i2c bus
 
